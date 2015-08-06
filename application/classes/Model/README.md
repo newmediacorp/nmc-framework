@@ -1,0 +1,1 @@
+I exist since git doesn't commit empty directories. 
