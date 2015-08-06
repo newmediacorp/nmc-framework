@@ -2,7 +2,7 @@
 RewriteEngine On
 
 # Installation directory
-RewriteBase /
+RewriteBase /%%BASE_DIRECTORY%%/
 
 # Protect hidden files from being viewed
 <Files .*>
